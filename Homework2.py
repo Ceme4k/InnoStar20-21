@@ -8,4 +8,3 @@ penny = int(float(input("Введи стоимость пирожка(в коп�
 pie = float(input("Введи количество пирожков - "))
 a = penny / 100
 print(int((ruble + (penny / 100)) * pie))
-#test comment
