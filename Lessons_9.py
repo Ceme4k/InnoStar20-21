@@ -36,7 +36,7 @@
 #     print("Yes")
 
 
-a = int(input())
-b = a + 1
-d = chr(b)
-print(d)
+# a = int(input())
+# b = a + 1
+# d = chr(b)
+# print(d)
