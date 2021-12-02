@@ -50,3 +50,30 @@
 #     a.append([0]*m)
 #
 # print(a)
+
+# n, m = map(int, input().split())
+# a = []
+# for i in range(n):
+#     a.append(list(map(int, input().split())))
+# for i in range(len(a)):
+#     for j in range(len(a[i])):
+#         print(a[i][j] + 1, end=" ")
+#     print()
+
+
+# n, m = map(int, input().split())
+# a = []
+# count = 0
+# for i in range(n):
+#     a.append(list(map(int, input().split())))
+# for i in range(len(a)):
+#     for j in range(len(a[i])):
+#         count += a[i][j]
+# print(count)
+
+# n = int(input())
+# a = []
+# count = 0
+# for i in range(n):
+#     a.append(list(map(int, input().split())))
+#     if
